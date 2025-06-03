@@ -21,6 +21,6 @@ Step 6: Note Down 3 Protocols
 Find and note any 3 different protocols shown, for example: HTTP, TCP, DNS.
 
 Step 7: Save the Capture File
-Go to File > Save As, name the file (ex: elevate), and save it—this creates your .pcap capture file.
+Go to File > Save As, name the file (ex: wireshark.pcap), and save it—this creates your .pcap capture file.
 
 #NOTE: Unable to upload Wireshark file (.pcap file)
